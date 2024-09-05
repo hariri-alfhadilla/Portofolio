@@ -20,6 +20,7 @@ nav{
     width: 100%;
     padding: 2rem 5rem;
     background-color: rgb(48, 69, 209);
+    position: absolute;
 }
 
 ul{
