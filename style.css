@@ -78,8 +78,8 @@ h1,p{
 }
 
 .foto{
-    position; relatif;
-    border-radius; 180px;
+    position: relatif;
+    border-radius: 180px;
 }
 
 .image__wrapper{
