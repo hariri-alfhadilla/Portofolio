@@ -77,6 +77,11 @@ h1,p{
     margin-bottom: 12px;
 }
 
+.foto{
+    position; relatif;
+    border-radius; 180px;
+}
+
 .image__wrapper{
     padding-right: 5rem;
 }
